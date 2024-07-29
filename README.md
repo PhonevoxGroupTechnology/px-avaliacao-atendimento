@@ -5,7 +5,7 @@
 
 # Descrição
 
-Script instalador para o módulo de avaliação da Phonevox, denominado *voxura* para o Issabel4.<br>
+Script instalador para o módulo de avaliação da Phonevox, denominado "*voxura*", para o Issabel4.<br>
 **NOTA**: *O módulo de avaliação utiliza um pacote depreciado do Issabel, "issabel-callcenter", que só funciona com Asterisk 11. [Clique aqui para saber mais](https://forum.issabel.org/d/4517-problemas-con-callcenter-y-asterisk-16/2).*
 
 # Instalação
