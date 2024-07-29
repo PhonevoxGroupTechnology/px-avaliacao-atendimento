@@ -1,0 +1,1 @@
+Utilitário para adição do "/voxura" e sistema de avaliação na central PABX.
