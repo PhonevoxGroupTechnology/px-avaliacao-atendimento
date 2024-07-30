@@ -11,7 +11,7 @@ Script instalador para o módulo de avaliação da Phonevox, denominado "*voxura
 # Instalação
 
 ```sh
-git clone https://github.com/adriankubinyete/px-avaliacao-atendimento.git
+git clone https://github.com/PhonevoxGroupTechnology/px-avaliacao-atendimento.git
 cd px-avaliacao-atendimento
 chmod +x install.sh
 ./install.sh --help
