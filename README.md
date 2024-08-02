@@ -1,4 +1,4 @@
-# Phonevox: Módulo de avaliação de atendimento (px-avaliacao-atendimento)
+# Módulo de avaliação de atendimento "voxura"
 
 **pt-BR**: Instalador do módulo de avaliação da Phonevox para o Issabel4.<br>
 **en-US**: Phonevox's User Rating module installer for Issabel4.
@@ -11,8 +11,8 @@ Script instalador para o módulo de avaliação da Phonevox, denominado "*voxura
 # Instalação
 
 ```sh
-git clone https://github.com/PhonevoxGroupTechnology/px-avaliacao-atendimento.git
-cd px-avaliacao-atendimento
+git clone https://github.com/phonevox/voxura.git
+cd voxura
 chmod +x install.sh
 ./install.sh --help
 ```
